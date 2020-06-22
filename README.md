@@ -21,3 +21,4 @@ I'm trying to
  - take final: https://inst.eecs.berkeley.edu//~cs61a/reader/vol2.html
 
 Homepage: https://inst.eecs.berkeley.edu//~cs61a/sp11/  
+Index: https://inst.eecs.berkeley.edu//~cs61as/reader/
