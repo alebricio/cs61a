@@ -8,7 +8,7 @@ This includes the homework and projects as well as Brian Harvey's lectures and n
 
 Progress | Lesson | Topic (Lecture Video) | Reading | 
 :-------:| ------ | --------------------- | ------- | 
- X | [0-1](https://www.youtube.com/watch?v=4leZ1Ca4f0g) | Functional Programming | Abelson & Sussman, Section 1.1 (pages 1–31) |
+ X | 0-1 | Functional Programming | Abelson & Sussman, Section 1.1 (pages 1–31) |
 
 
 I'm trying to
