@@ -20,6 +20,3 @@ I'm trying to
  - take final: https://inst.eecs.berkeley.edu//~cs61a/reader/vol2.html
 
 Homepage: https://inst.eecs.berkeley.edu//~cs61a/sp11/  
-Homework solutions:
- - sicp wiki: http://sicp.org.ua/sicp/
- - Solutions from summer 2011 (same homework and the old ones were not published): http://wla.berkeley.edu/~cs61a/su11/solutions/
