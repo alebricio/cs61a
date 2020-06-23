@@ -3,7 +3,7 @@ This is my attempt at Berkeley's CS61A course based on "Structure and interpreta
 
 This includes the homework and projects as well as Brian Harvey's lectures and notes at Berkeley.
 
-Also, why Scheme and not Python? See: http://people.eecs.berkeley.edu/~bh/proglang.html
+Also, why Scheme and not Python? Read: http://people.eecs.berkeley.edu/~bh/proglang.html
 
 
 ## Course Outline
