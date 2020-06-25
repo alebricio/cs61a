@@ -8,9 +8,9 @@ Also, why Scheme and not Python? Read: http://people.eecs.berkeley.edu/~bh/progl
 
 ## Course Outline
 
-Progress | Lesson | Topic (Lecture Video) | Reading | 
+Progress | Lesson | Topic (Lecture Video) | Reading SICP | 
 :-------:| ------ | --------------------- | ------- | 
- X | 0-1 | Functional Programming | Abelson & Sussman, Section 1.1 (pages 1–31) |
+ X | 0-1 | Functional Programming | Section 1.1 (pages 1–31) |
 
 
 I'm trying to
