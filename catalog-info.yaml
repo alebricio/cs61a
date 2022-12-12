@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: cs61a
+  annotations:
+    github.com/project-slug: alebricio/cs61a
+spec:
+  type: other
+  lifecycle: unknown
+  owner: a
